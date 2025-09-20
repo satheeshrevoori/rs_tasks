@@ -1,0 +1,7 @@
+"Good morning, my name is  Satheesh Revoori. 
+I'm a recent computer science graduate from Delhi University. 
+During my studies, I completed an internship at a local software firm where 
+I developed a passion for back-end development and honed my Python skills. 
+I'm particularly interested in developing scalable and efficient applications 
+and I'm excited by the opportunity to contribute my technical skills and enthusiasm to 
+the innovative projects at your company. Thank you for considering me for this role
